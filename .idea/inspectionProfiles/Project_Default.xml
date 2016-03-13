@@ -1,0 +1,200 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <option name="myLocal" value="true" />
+    <inspection_tool class="CssInvalidFunction" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myCustomPropertiesEnabled" value="true" />
+      <option name="myIgnoreVendorSpecificProperties" value="false" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="42">
+            <item index="0" class="java.lang.String" itemvalue="--min-footer-height" />
+            <item index="1" class="java.lang.String" itemvalue="--paper-icon-button-ink-color" />
+            <item index="2" class="java.lang.String" itemvalue="--px10-highlighted-menuitem-color" />
+            <item index="3" class="java.lang.String" itemvalue="--px10-scroll-shaft-thickness" />
+            <item index="4" class="java.lang.String" itemvalue="--px10-scrolling-shaft-thumb-background" />
+            <item index="5" class="java.lang.String" itemvalue="--px10-scrolling-shaft-background" />
+            <item index="6" class="java.lang.String" itemvalue="--px10-scroller-min-width" />
+            <item index="7" class="java.lang.String" itemvalue="--cover-thickness" />
+            <item index="8" class="java.lang.String" itemvalue="--px10-menu-border-width" />
+            <item index="9" class="java.lang.String" itemvalue="--px10-menu-border-color" />
+            <item index="10" class="java.lang.String" itemvalue="--px10-menu-border-style" />
+            <item index="11" class="java.lang.String" itemvalue="--icon-dimension" />
+            <item index="12" class="java.lang.String" itemvalue="--iron-icon-width" />
+            <item index="13" class="java.lang.String" itemvalue="--iron-icon-height" />
+            <item index="14" class="java.lang.String" itemvalue="--px10-moveable-cursor" />
+            <item index="15" class="java.lang.String" itemvalue="--px10-disabled-color" />
+            <item index="16" class="java.lang.String" itemvalue="--px10-disabled-cursor" />
+            <item index="17" class="java.lang.String" itemvalue="--px10-menuitem-check-color" />
+            <item index="18" class="java.lang.String" itemvalue="--px10-menuitem-shortcut-color" />
+            <item index="19" class="java.lang.String" itemvalue="--px10-focused-icon-color" />
+            <item index="20" class="java.lang.String" itemvalue="--px10-focused-icon-width" />
+            <item index="21" class="java.lang.String" itemvalue="--px10-focused-icon-height" />
+            <item index="22" class="java.lang.String" itemvalue="--px10-focused-icon-width-meduim" />
+            <item index="23" class="java.lang.String" itemvalue="--px10-focused-icon-height-meduim" />
+            <item index="24" class="java.lang.String" itemvalue="--px10-menu-separator-color" />
+            <item index="25" class="java.lang.String" itemvalue="--px10-spinner-color" />
+            <item index="26" class="java.lang.String" itemvalue="--px10-menu-color" />
+            <item index="27" class="java.lang.String" itemvalue="--px10-menu-background-color" />
+            <item index="28" class="java.lang.String" itemvalue="--px10-focused-active-enabled-menuitem-color" />
+            <item index="29" class="java.lang.String" itemvalue="--px10-focused-active-enabled-menuitem-background" />
+            <item index="30" class="java.lang.String" itemvalue="--px10-active-enabled-menuitem-color" />
+            <item index="31" class="java.lang.String" itemvalue="--px10-active-enabled-menuitem-background" />
+            <item index="32" class="java.lang.String" itemvalue="--px10-active-disabled-menuitem-color" />
+            <item index="33" class="java.lang.String" itemvalue="--px10-active-disabled-menuitem-background" />
+            <item index="34" class="java.lang.String" itemvalue="--px10-standard-menuitem-content-icon-width" />
+            <item index="35" class="java.lang.String" itemvalue="--px10-standard-menuitem-content-icon-height" />
+            <item index="36" class="java.lang.String" itemvalue="--px10-standard-menuitem-content-height" />
+            <item index="37" class="java.lang.String" itemvalue="--px10-standard-menuitem-content-icon-container-width" />
+            <item index="38" class="java.lang.String" itemvalue="--px10-standard-menuitem-content-label-container-min-width" />
+            <item index="39" class="java.lang.String" itemvalue="--px10-standard-menuitem-content-shortcut-container-min-width" />
+            <item index="40" class="java.lang.String" itemvalue="--px10-default-border" />
+            <item index="41" class="java.lang.String" itemvalue="--default-border-radius" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="108">
+            <item index="0" class="java.lang.String" itemvalue="in-place" />
+            <item index="1" class="java.lang.String" itemvalue="no-animation" />
+            <item index="2" class="java.lang.String" itemvalue="z-index" />
+            <item index="3" class="java.lang.String" itemvalue="duration" />
+            <item index="4" class="java.lang.String" itemvalue="easing" />
+            <item index="5" class="java.lang.String" itemvalue="cloakingmode" />
+            <item index="6" class="java.lang.String" itemvalue="navigator" />
+            <item index="7" class="java.lang.String" itemvalue="cloaking-mode" />
+            <item index="8" class="java.lang.String" itemvalue="on-click" />
+            <item index="9" class="java.lang.String" itemvalue="will-handle-selection" />
+            <item index="10" class="java.lang.String" itemvalue="constraining-rect-margin" />
+            <item index="11" class="java.lang.String" itemvalue="constraint" />
+            <item index="12" class="java.lang.String" itemvalue="top-menu" />
+            <item index="13" class="java.lang.String" itemvalue="open-direction" />
+            <item index="14" class="java.lang.String" itemvalue="closeable" />
+            <item index="15" class="java.lang.String" itemvalue="pinnable" />
+            <item index="16" class="java.lang.String" itemvalue="on-tap" />
+            <item index="17" class="java.lang.String" itemvalue="always-float-label" />
+            <item index="18" class="java.lang.String" itemvalue="auto-validate" />
+            <item index="19" class="java.lang.String" itemvalue="label" />
+            <item index="20" class="java.lang.String" itemvalue="required" />
+            <item index="21" class="java.lang.String" itemvalue="error-message" />
+            <item index="22" class="java.lang.String" itemvalue="pattern" />
+            <item index="23" class="java.lang.String" itemvalue="allowed-pattern" />
+            <item index="24" class="java.lang.String" itemvalue="no-label-float" />
+            <item index="25" class="java.lang.String" itemvalue="placeholder" />
+            <item index="26" class="java.lang.String" itemvalue="char-counter" />
+            <item index="27" class="java.lang.String" itemvalue="maxlength" />
+            <item index="28" class="java.lang.String" itemvalue="aria-labelledby$" />
+            <item index="29" class="java.lang.String" itemvalue="aria-describedby$" />
+            <item index="30" class="java.lang.String" itemvalue="disabled$" />
+            <item index="31" class="java.lang.String" itemvalue="bind-value" />
+            <item index="32" class="java.lang.String" itemvalue="invalid" />
+            <item index="33" class="java.lang.String" itemvalue="prevent-invalid-input" />
+            <item index="34" class="java.lang.String" itemvalue="type$" />
+            <item index="35" class="java.lang.String" itemvalue="required$" />
+            <item index="36" class="java.lang.String" itemvalue="autocomplete$" />
+            <item index="37" class="java.lang.String" itemvalue="autofocus$" />
+            <item index="38" class="java.lang.String" itemvalue="inputmode$" />
+            <item index="39" class="java.lang.String" itemvalue="pattern$" />
+            <item index="40" class="java.lang.String" itemvalue="minlength$" />
+            <item index="41" class="java.lang.String" itemvalue="maxlength$" />
+            <item index="42" class="java.lang.String" itemvalue="min$" />
+            <item index="43" class="java.lang.String" itemvalue="max$" />
+            <item index="44" class="java.lang.String" itemvalue="validator" />
+            <item index="45" class="java.lang.String" itemvalue="step$" />
+            <item index="46" class="java.lang.String" itemvalue="name$" />
+            <item index="47" class="java.lang.String" itemvalue="placeholder$" />
+            <item index="48" class="java.lang.String" itemvalue="readonly$" />
+            <item index="49" class="java.lang.String" itemvalue="list$" />
+            <item index="50" class="java.lang.String" itemvalue="size$" />
+            <item index="51" class="java.lang.String" itemvalue="autocapitalize$" />
+            <item index="52" class="java.lang.String" itemvalue="autocorrect$" />
+            <item index="53" class="java.lang.String" itemvalue="on-change" />
+            <item index="54" class="java.lang.String" itemvalue="tabindex$" />
+            <item index="55" class="java.lang.String" itemvalue="autosave$" />
+            <item index="56" class="java.lang.String" itemvalue="accept$" />
+            <item index="57" class="java.lang.String" itemvalue="results$" />
+            <item index="58" class="java.lang.String" itemvalue="multiple$" />
+            <item index="59" class="java.lang.String" itemvalue="hidden$" />
+            <item index="60" class="java.lang.String" itemvalue="if" />
+            <item index="61" class="java.lang.String" itemvalue="type" />
+            <item index="62" class="java.lang.String" itemvalue="attr-for-value" />
+            <item index="63" class="java.lang.String" itemvalue="px10-menuitem-focus" />
+            <item index="64" class="java.lang.String" itemvalue="px10-focus" />
+            <item index="65" class="java.lang.String" itemvalue="menu-selector" />
+            <item index="66" class="java.lang.String" itemvalue="remember-moved" />
+            <item index="67" class="java.lang.String" itemvalue="remember-layout" />
+            <item index="68" class="java.lang.String" itemvalue="remember-location" />
+            <item index="69" class="java.lang.String" itemvalue="remember-dimensions" />
+            <item index="70" class="java.lang.String" itemvalue="moveable" />
+            <item index="71" class="java.lang.String" itemvalue="resizable" />
+            <item index="72" class="java.lang.String" itemvalue="import" />
+            <item index="73" class="java.lang.String" itemvalue="id$" />
+            <item index="74" class="java.lang.String" itemvalue="rememberdimensions" />
+            <item index="75" class="java.lang.String" itemvalue="rememberlocation" />
+            <item index="76" class="java.lang.String" itemvalue="min-scale" />
+            <item index="77" class="java.lang.String" itemvalue="max-scale" />
+            <item index="78" class="java.lang.String" itemvalue="scale" />
+            <item index="79" class="java.lang.String" itemvalue="window-resize-adjust" />
+            <item index="80" class="java.lang.String" itemvalue="disabled-x" />
+            <item index="81" class="java.lang.String" itemvalue="no-keyboard-processing" />
+            <item index="82" class="java.lang.String" itemvalue="pass-unhandled-event" />
+            <item index="83" class="java.lang.String" itemvalue="use-web-animation" />
+            <item index="84" class="java.lang.String" itemvalue="as" />
+            <item index="85" class="java.lang.String" itemvalue="items" />
+            <item index="86" class="java.lang.String" itemvalue="aria-label$" />
+            <item index="87" class="java.lang.String" itemvalue="shortcut" />
+            <item index="88" class="java.lang.String" itemvalue="action" />
+            <item index="89" class="java.lang.String" itemvalue="disabled-y" />
+            <item index="90" class="java.lang.String" itemvalue="vertical$" />
+            <item index="91" class="java.lang.String" itemvalue="icon$" />
+            <item index="92" class="java.lang.String" itemvalue="unselectable" />
+            <item index="93" class="java.lang.String" itemvalue="on-touchend" />
+            <item index="94" class="java.lang.String" itemvalue="aria-activedescendant$" />
+            <item index="95" class="java.lang.String" itemvalue="aria-expanded$" />
+            <item index="96" class="java.lang.String" itemvalue="on-input" />
+            <item index="97" class="java.lang.String" itemvalue="on-blur" />
+            <item index="98" class="java.lang.String" itemvalue="key-event-target" />
+            <item index="99" class="java.lang.String" itemvalue="on-dismiss" />
+            <item index="100" class="java.lang.String" itemvalue="alt$" />
+            <item index="101" class="java.lang.String" itemvalue="on-focus" />
+            <item index="102" class="java.lang.String" itemvalue="toggles" />
+            <item index="103" class="java.lang.String" itemvalue="group" />
+            <item index="104" class="java.lang.String" itemvalue="strip-whitespace" />
+            <item index="105" class="java.lang.String" itemvalue="on-mouseenter" />
+            <item index="106" class="java.lang.String" itemvalue="px10-contextmenu" />
+            <item index="107" class="java.lang.String" itemvalue="stop-event-if-not-handled" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="10">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="prism-highlighter" />
+            <item index="7" class="java.lang.String" itemvalue="google-signin-aware" />
+            <item index="8" class="java.lang.String" itemvalue="app-toolbar" />
+            <item index="9" class="java.lang.String" itemvalue="iron-ajax" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="JSCommentMatchesSignature" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="LoggerInitializedWithForeignClass" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="loggerClassName" value="org.apache.log4j.Logger,org.slf4j.LoggerFactory,org.apache.commons.logging.LogFactory,java.util.logging.Logger" />
+      <option name="loggerFactoryMethodName" value="getLogger,getLogger,getLog,getLogger" />
+    </inspection_tool>
+  </profile>
+</component>
